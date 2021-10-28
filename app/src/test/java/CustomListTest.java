@@ -25,5 +25,4 @@ public class CustomListTest {
         list.addCity(c);
         assertEquals(list.getCount(), size+1);
     }
-
 }
